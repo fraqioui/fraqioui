@@ -33,6 +33,8 @@
 
 - 📝 Personal website [link](https://medium.com/@fatimaezzahraraqioui)
 
+- Gmail: fraqioui@student.1337.ma
+
 <!--Intro end-->
 <div align="center">
   <h1>1337 Profile</h1>
