@@ -31,7 +31,7 @@
 
 - ☁️ Interested in Cyber-Security and computer hardware
 
-- 📝 Personal website [link](https://medium.com/@fatimaezzahraraqioui)
+- 📝 Medium Profile [link](https://medium.com/@fatimaezzahraraqioui)
 
 - Gmail: fraqioui@student.1337.ma
 
