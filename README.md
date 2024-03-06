@@ -21,7 +21,7 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Not perfect but creative</h2></summary>
+    <summary><h2 style="display: inline-block">Exploring->Realizing->Developing</h2></summary>
   </ul>
 </div>
 
@@ -29,20 +29,7 @@
 <!--Intro start-->
 - 🔭 I’m currently full-time student at 1337.
 
-- ☁️ Interested in Cyber-Security and computer hardware
-
-- 📝 Medium Profile [link](https://medium.com/@fatimaezzahraraqioui)
-
 - Gmail: fraqioui@student.1337.ma
-
-<!--Intro end-->
-<div align="center">
-  <h1>1337 Profile</h1>
-</div>
-<div align="center">
-  <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/starryblue/fraqioui" alt="fraqioui's 42 stats" /></a>
-</div>
-  
 
 
 <!--- stats & Trophy (start) -->
