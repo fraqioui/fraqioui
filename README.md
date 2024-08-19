@@ -11,10 +11,10 @@
 </div>
 
 
-<!--- snake -->
 <div align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="rocket launch" />
+  <img src="https://media.giphy.com/media/xThta9x2EyApM8Lz5K/giphy.gif" alt="waving hand" />
 </div>
+
 
 
 <!--h2 without bottom border-->
