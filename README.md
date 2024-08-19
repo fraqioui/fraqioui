@@ -11,9 +11,6 @@
 </div>
 
 
-<div align="center">
-  <img src="https://media.giphy.com/media/l3q2K5jinAlChoCLS/giphy.gif" alt="pulsating heart" />
-</div>
 
 
 <!--h2 without bottom border-->
