@@ -12,9 +12,8 @@
 
 
 <div align="center">
-  <img src="https://media.giphy.com/media/xThta9x2EyApM8Lz5K/giphy.gif" alt="waving hand" />
+  <img src="https://media.giphy.com/media/l3q2K5jinAlChoCLS/giphy.gif" alt="pulsating heart" />
 </div>
-
 
 
 <!--h2 without bottom border-->
