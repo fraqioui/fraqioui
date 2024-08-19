@@ -13,9 +13,8 @@
 
 <!--- snake -->
 <div align="center">
-  <img src="https://media.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif" alt="typing animation" />
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="rocket launch" />
 </div>
-
 
 
 <!--h2 without bottom border-->
