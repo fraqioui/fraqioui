@@ -13,7 +13,7 @@
 
 <!--- snake -->
 <div align="center">
-  <img src="https://media.giphy.com/media/3o7aCU2yIvGGw7CsdK/giphy.gif" alt="progress bar" />
+  <img src="https://media.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif" alt="typing animation" />
 </div>
 
 
