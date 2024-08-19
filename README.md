@@ -12,6 +12,9 @@
 
 
 <!--- snake -->
+<div align="center">
+  <img src="https://media.giphy.com/media/3o7aCU2yIvGGw7CsdK/giphy.gif" alt="progress bar" />
+</div>
 
 
 
